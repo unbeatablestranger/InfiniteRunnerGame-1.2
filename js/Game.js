@@ -41,7 +41,7 @@ class Game
   play()
   {
     //write code here to hide question elements
-    
+    form.hide();
 
     //write code to change the background color here
     background("grey");
